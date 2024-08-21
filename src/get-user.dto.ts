@@ -5,5 +5,5 @@ export class GetUserDto {
     description: 'Número de TC del usuario',
     example: "2882491615033",
   })
-  card_number: string;
+  numero_tarjeta: string;
 }

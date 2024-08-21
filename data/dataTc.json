@@ -1,55 +1,54 @@
 {
-    "transactions": [
-      {
-        "card_number": "4111111111111111",
-        "bill": "Q1500.60",
-        "pay_date": "30/08/2024"
-      },
-      {
-        "card_number": "4012888888881881",
-        "bill": "Q1200.30",
-        "pay_date": "15/09/2024"
-      },
-      {
-        "card_number": "4222222222222",
-        "bill": "Q2300.00",
-        "pay_date": "05/07/2024"
-      },
-      {
-        "card_number": "4556737586899855",
-        "bill": "Q500.75",
-        "pay_date": "20/10/2024"
-      },
-      {
-        "card_number": "4716108999716531",
-        "bill": "Q780.45",
-        "pay_date": "12/11/2024"
-      },
-      {
-        "card_number": "4917300800000000",
-        "bill": "Q2000.99",
-        "pay_date": "01/12/2024"
-      },
-      {
-        "card_number": "4485275742308327",
-        "bill": "Q345.67",
-        "pay_date": "18/08/2024"
-      },
-      {
-        "card_number": "4716767128760004",
-        "bill": "Q1870.00",
-        "pay_date": "23/09/2024"
-      },
-      {
-        "card_number": "4532421174341270",
-        "bill": "Q2450.30",
-        "pay_date": "07/10/2024"
-      },
-      {
-        "card_number": "4929393917173462",
-        "bill": "Q1120.45",
-        "pay_date": "14/11/2024"
-      }
-    ]
-  }
-  
+  "transactions": [
+    {
+      "numero_tarjeta": "4111111111111111",
+      "factura": "Q1500.60",
+      "fecha_pago": "30/08/2024"
+    },
+    {
+      "numero_tarjeta": "4012888888881881",
+      "factura": "Q1200.30",
+      "fecha_pago": "15/09/2024"
+    },
+    {
+      "numero_tarjeta": "4222222222222",
+      "factura": "Q2300.00",
+      "fecha_pago": "05/07/2024"
+    },
+    {
+      "numero_tarjeta": "4556737586899855",
+      "factura": "Q500.75",
+      "fecha_pago": "20/10/2024"
+    },
+    {
+      "numero_tarjeta": "4716108999716531",
+      "factura": "Q780.45",
+      "fecha_pago": "12/11/2024"
+    },
+    {
+      "numero_tarjeta": "4917300800000000",
+      "factura": "Q2000.99",
+      "fecha_pago": "01/12/2024"
+    },
+    {
+      "numero_tarjeta": "4485275742308327",
+      "factura": "Q345.67",
+      "fecha_pago": "18/08/2024"
+    },
+    {
+      "numero_tarjeta": "4716767128760004",
+      "factura": "Q1870.00",
+      "fecha_pago": "23/09/2024"
+    },
+    {
+      "numero_tarjeta": "4532421174341270",
+      "factura": "Q2450.30",
+      "fecha_pago": "07/10/2024"
+    },
+    {
+      "numero_tarjeta": "4929393917173462",
+      "factura": "Q1120.45",
+      "fecha_pago": "14/11/2024"
+    }
+  ]
+}

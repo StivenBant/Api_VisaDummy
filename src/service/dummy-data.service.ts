@@ -10,11 +10,11 @@ export class DummyDataService {
   private users = dataPerson.users;
   private transactions = dataTransaction.transactions;
 
-  getUserDataByTc(card_number: string) {
-    return this.users.find(user => user.card_number === card_number);
+  getUserDataByTc(numero_tarjeta: string) {
+    return this.users.find(usuario => usuario.numero_tarjeta === numero_tarjeta);
   }
 
-  getTransactionByCardNumber(cardNumber: string) {
-    return this.transactions.find(transaction => transaction.card_number === cardNumber);
+  getTransactionByCardNumber(numeroTarjeta: string) {
+    return this.transactions.find(transaccion => transaccion.numero_tarjeta === numeroTarjeta);
   }
 }

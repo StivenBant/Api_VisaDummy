@@ -1,105 +1,104 @@
 {
-    "users": [
-      {
-        "card_number": "4111111111111111",
-        "first_name": "Aggie",
-        "last_name": "Shyres",
-        "cvv": 7998,
-        "credit": "Q37768.60",
-        "expiration_date": "2024-08",
-        "dpi": 2882491615033,
-        "state": true
-      },
-      {
-        "card_number": "4012888888881881",
-        "first_name": "Brent",
-        "last_name": "Bowers",
-        "cvv": 1234,
-        "credit": "Q28560.50",
-        "expiration_date": "2025-06",
-        "dpi": 3124516225387,
-        "state": true
-      },
-      {
-        "card_number": "4222222222222",
-        "first_name": "Cecilia",
-        "last_name": "Knight",
-        "cvv": 5678,
-        "credit": "Q50345.00",
-        "expiration_date": "2024-11",
-        "dpi": 1987654321098,
-        "state": false
-      },
-      {
-        "card_number": "4556737586899855",
-        "first_name": "Darius",
-        "last_name": "Smith",
-        "cvv": 4356,
-        "credit": "Q12000.00",
-        "expiration_date": "2023-09",
-        "dpi": 2048567312987,
-        "state": true
-      },
-      {
-        "card_number": "4716108999716531",
-        "first_name": "Emily",
-        "last_name": "Johnson",
-        "cvv": 8521,
-        "credit": "Q34987.90",
-        "expiration_date": "2026-04",
-        "dpi": 3542784910382,
-        "state": false
-      },
-      {
-        "card_number": "4917300800000000",
-        "first_name": "Felix",
-        "last_name": "White",
-        "cvv": 9876,
-        "credit": "Q27480.00",
-        "expiration_date": "2025-01",
-        "dpi": 4098526712387,
-        "state": true
-      },
-      {
-        "card_number": "4485275742308327",
-        "first_name": "Georgia",
-        "last_name": "Black",
-        "cvv": 7765,
-        "credit": "Q45000.60",
-        "expiration_date": "2023-12",
-        "dpi": 5087612398765,
-        "state": true
-      },
-      {
-        "card_number": "4716767128760004",
-        "first_name": "Henry",
-        "last_name": "Green",
-        "cvv": 3456,
-        "credit": "Q32230.40",
-        "expiration_date": "2024-07",
-        "dpi": 6219847635124,
-        "state": false
-      },
-      {
-        "card_number": "4532421174341270",
-        "first_name": "Ivy",
-        "last_name": "Gray",
-        "cvv": 2345,
-        "credit": "Q39800.00",
-        "expiration_date": "2025-09",
-        "dpi": 7198564312876,
-        "state": true
-      },
-      {
-        "card_number": "4929393917173462",
-        "first_name": "Jack",
-        "last_name": "Blue",
-        "cvv": 1543,
-        "credit": "Q27689.50",
-        "expiration_date": "2026-03",
-        "dpi": 8036543291876,
-        "state": true
-      }
-    ]
-  }
-  
+  "users": [
+    {
+      "numero_tarjeta": "4111111111111111",
+      "nombre": "Aggie",
+      "apellido": "Shyres",
+      "cvv": 7998,
+      "credito": "Q37768.60",
+      "fecha_expiracion": "2024-08",
+      "dpi": 2882491615033,
+      "estado": true
+    },
+    {
+      "numero_tarjeta": "4012888888881881",
+      "nombre": "Brent",
+      "apellido": "Bowers",
+      "cvv": 1234,
+      "credito": "Q28560.50",
+      "fecha_expiracion": "2025-06",
+      "dpi": 3124516225387,
+      "estado": true
+    },
+    {
+      "numero_tarjeta": "4222222222222",
+      "nombre": "Cecilia",
+      "apellido": "Knight",
+      "cvv": 5678,
+      "credito": "Q50345.00",
+      "fecha_expiracion": "2024-11",
+      "dpi": 1987654321098,
+      "estado": false
+    },
+    {
+      "numero_tarjeta": "4556737586899855",
+      "nombre": "Darius",
+      "apellido": "Smith",
+      "cvv": 4356,
+      "credito": "Q12000.00",
+      "fecha_expiracion": "2023-09",
+      "dpi": 2048567312987,
+      "estado": true
+    },
+    {
+      "numero_tarjeta": "4716108999716531",
+      "nombre": "Emily",
+      "apellido": "Johnson",
+      "cvv": 8521,
+      "credito": "Q34987.90",
+      "fecha_expiracion": "2026-04",
+      "dpi": 3542784910382,
+      "estado": false
+    },
+    {
+      "numero_tarjeta": "4917300800000000",
+      "nombre": "Felix",
+      "apellido": "White",
+      "cvv": 9876,
+      "credito": "Q27480.00",
+      "fecha_expiracion": "2025-01",
+      "dpi": 4098526712387,
+      "estado": true
+    },
+    {
+      "numero_tarjeta": "4485275742308327",
+      "nombre": "Georgia",
+      "apellido": "Black",
+      "cvv": 7765,
+      "credito": "Q45000.60",
+      "fecha_expiracion": "2023-12",
+      "dpi": 5087612398765,
+      "estado": true
+    },
+    {
+      "numero_tarjeta": "4716767128760004",
+      "nombre": "Henry",
+      "apellido": "Green",
+      "cvv": 3456,
+      "credito": "Q32230.40",
+      "fecha_expiracion": "2024-07",
+      "dpi": 6219847635124,
+      "estado": false
+    },
+    {
+      "numero_tarjeta": "4532421174341270",
+      "nombre": "Ivy",
+      "apellido": "Gray",
+      "cvv": 2345,
+      "credito": "Q39800.00",
+      "fecha_expiracion": "2025-09",
+      "dpi": 7198564312876,
+      "estado": true
+    },
+    {
+      "numero_tarjeta": "4929393917173462",
+      "nombre": "Jack",
+      "apellido": "Blue",
+      "cvv": 1543,
+      "credito": "Q27689.50",
+      "fecha_expiracion": "2026-03",
+      "dpi": 8036543291876,
+      "estado": true
+    }
+  ]
+}

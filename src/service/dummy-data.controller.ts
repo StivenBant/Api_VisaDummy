@@ -18,8 +18,8 @@ export class DummyDataController {
   @ApiResponse({ status: 404, description: 'Usuario no encontrado.' })
   @HttpCode(200)
   getUserData(@Body() getUserDto: GetUserDto) {
-    const { card_number } = getUserDto;
-    const userData = this.dummyDataService.getUserDataByTc(card_number);
+    const { numero_tarjeta } = getUserDto;
+    const userData = this.dummyDataService.getUserDataByTc(numero_tarjeta);
     if (!userData) {
       return { message: 'User not found' };
     }
@@ -38,9 +38,9 @@ export class DummyDataController {
   @HttpCode(200)
   getTransactionData(@Body() getTcDto: GetTcDto) {
     // Usa el DTO completo
-    const { card_number } = getTcDto;
+    const { numero_tarjeta} = getTcDto;
     const transactionData =
-      this.dummyDataService.getTransactionByCardNumber(card_number);
+      this.dummyDataService.getTransactionByCardNumber(numero_tarjeta);
     if (!transactionData) {
       return { message: 'Transaction not found' };
     }
